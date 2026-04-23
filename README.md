@@ -28,8 +28,6 @@ This project is a simple web page created using HTML as part of the DCOMP204 Web
 
 
 
-## GitHub Repository
-https://github.com/favsiajos7/Favour-Sia-Josiah-905005074-BSEM1202-SEM4-webdesign
 
 
 
