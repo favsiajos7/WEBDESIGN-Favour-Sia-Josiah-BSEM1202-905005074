@@ -13,14 +13,6 @@ This project is a simple web page created using HTML as part of the DCOMP204 Web
 
 
 
-## Features
-- Personal introduction page
-- Short biography section
-- Explanation of why web design is studied
-- Career goals section
-- Footer with copyright information
-
-
 
 ## Tools Used
 - HTML
@@ -42,3 +34,14 @@ https://github.com/favsiajos7/Favour-Sia-Josiah-905005074-BSEM1202-SEM4-webdesig
 
 
 ## screenshot
+
+## VS Code showing HTML project
+<img width="1904" height="1001" alt="Screenshot 2026-04-23 121350" src="https://github.com/user-attachments/assets/03cc02e5-79eb-4c2c-9391-9a7ff7958136" /> 
+
+## Live Server web page output
+<img width="1917" height="1003" alt="Screenshot 2026-04-23 121404" src="https://github.com/user-attachments/assets/966616ff-ef01-448a-b243-20f89b2dc235" />
+
+## GitHub repository files
+<img width="1895" height="890" alt="Screenshot 2026-04-23 123843" src="https://github.com/user-attachments/assets/5b24cbad-8d0b-4ea0-85a1-24572f6c1fd1" />
+
+
